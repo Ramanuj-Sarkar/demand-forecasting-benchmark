@@ -1,0 +1,2 @@
+model,smape,mae,rmse,mase,n_obs,fit_time_s,smape_rank
+LightGBM,17.909,8.023,9.587,1.038,36000,24.353,1

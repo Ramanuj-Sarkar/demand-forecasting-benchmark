@@ -1,0 +1,12 @@
+# Demand-forecasting benchmark environment (Python 3.11)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+lightgbm
+prophet
+sktime
+tqdm
+joblib
